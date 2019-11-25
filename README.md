@@ -1,0 +1,3 @@
+# Fit to Scrape
+
+Initial README to be updated shortly...
